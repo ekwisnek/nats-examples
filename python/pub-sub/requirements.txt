@@ -1,0 +1,5 @@
+Flask==3.0.2
+Flask[async]==3.0.2
+jsonschema==4.21.1
+nats-py==2.7.0
+asyncio==3.4.3
